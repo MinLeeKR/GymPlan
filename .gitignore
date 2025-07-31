@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+youtube-link-report.json
+youtube-link-simple-report.json
+*.log
+.DS_Store
+.env
